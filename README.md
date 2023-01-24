@@ -60,6 +60,11 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![webserver pranathi](https://user-images.githubusercontent.com/118343610/214346989-bc772f26-b298-4e80-ad08-9d997d96f9d7.jpeg)
+
+![webss pranathi](https://user-images.githubusercontent.com/118343610/214347020-3341f4a5-fa42-4d46-b4fd-0b76d7357059.jpeg)
+
 
 ## RESULT:
 The program is executed succesfully
+
